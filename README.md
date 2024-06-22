@@ -31,7 +31,4 @@ Let's connect and collaborate! Feel free to explore my repositories and reach ou
 ---
 
 Feel free to customize it further based on your specific interests, projects, and experiences.
-<!---
-GH-Shivam007/GH-Shivam007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
