@@ -30,5 +30,4 @@ Let's connect and collaborate! Feel free to explore my repositories and reach ou
 
 ---
 
-Feel free to customize it further based on your specific interests, projects, and experiences.
 
